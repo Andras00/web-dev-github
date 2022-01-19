@@ -5,3 +5,4 @@ Történt némi változás!
 még egy változás
 Hozzáaok egy számolást is!
 git log
+And This is another commit!
